@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simulación</string>
+    <string name="txt_semilla">Semilla</string>
+    <string name="txt_const_ad">C. Aditiva</string>
+    <string name="txt_const_m">C. Multiplicativa</string>
+    <string name="txt_modulo">Módulo</string>
+    <string name="txt_rbtn_mixto">Método mixto</string>
+    <string name="txt_rbtn_mul">Método multiplicativo</string>
+    <string name="txt_resultado">Resultado:</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
